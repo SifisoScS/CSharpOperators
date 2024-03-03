@@ -1,0 +1,14 @@
+# .gitignore for C# projects
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.cache
+*.log
+*.dll
+*.exe
+*.pdb
+*.userprefs
+*.vscode
+*.sln.docstates

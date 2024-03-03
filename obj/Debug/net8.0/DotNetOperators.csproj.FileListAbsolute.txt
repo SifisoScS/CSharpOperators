@@ -1,0 +1,14 @@
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\bin\Debug\net8.0\DotNetOperators.exe
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\bin\Debug\net8.0\DotNetOperators.deps.json
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\bin\Debug\net8.0\DotNetOperators.runtimeconfig.json
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\bin\Debug\net8.0\DotNetOperators.dll
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\bin\Debug\net8.0\DotNetOperators.pdb
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\obj\Debug\net8.0\DotNetOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\obj\Debug\net8.0\DotNetOperators.AssemblyInfoInputs.cache
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\obj\Debug\net8.0\DotNetOperators.AssemblyInfo.cs
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\obj\Debug\net8.0\DotNetOperators.csproj.CoreCompileInputs.cache
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\obj\Debug\net8.0\DotNetOperators.dll
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\obj\Debug\net8.0\refint\DotNetOperators.dll
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\obj\Debug\net8.0\DotNetOperators.pdb
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\obj\Debug\net8.0\DotNetOperators.genruntimeconfig.cache
+C:\Users\sifis\OneDrive\Desktop\Desktop Container Folder\DotNetOperators\obj\Debug\net8.0\ref\DotNetOperators.dll
