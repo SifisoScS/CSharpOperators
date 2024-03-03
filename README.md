@@ -9,7 +9,6 @@ Welcome to the "C# Operators Examples" repository! This collection includes C# c
   - [Introduction](#introduction)
   - [Examples](#examples)
   - [Usage](#usage)
-  - [How to Contribute](#how-to-contribute)
 
 ## Introduction
 
@@ -40,14 +39,3 @@ Check out the following examples to understand how different C# operators are us
 
 3. Explore the examples in the `src` directory to understand different C# operators.
 
-## How to Contribute
-
-We welcome contributions from the community! If you want to contribute to this project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your changes: `git checkout -b feature/new-feature`.
-3. Make your changes and commit them: `git commit -m "Add new feature"`.
-4. Push the changes to your fork: `git push origin feature/new-feature`.
-5. Open a pull request on GitHub.
-
-Please review our [Contribution Guidelines](CONTRIBUTING.md) for more details.

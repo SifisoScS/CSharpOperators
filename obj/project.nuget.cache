@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VDEJrmZO33CT9xEy38eazEGwNE82bH3XHspCFGLHReE/pc1ytnPvS4qf4nj9FXXW7Tg34DA4von7k98o7cBI6w==",
+  "dgSpecHash": "sSkjggT0laKFjw3h6krA8PTMkYa5gUk0OwI/eosNzMIdzFKCqmSIpuTK0tQAQT2pshdkPZmjEv3qceAR70lEmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sifis\\OneDrive\\Desktop\\Desktop Container Folder\\DotNetOperators\\DotNetOperators.csproj",
+  "projectFilePath": "C:\\Users\\sifis\\LearningCSharpOperators\\CSharpOperators\\DotNetOperators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
